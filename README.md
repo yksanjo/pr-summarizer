@@ -1,5 +1,9 @@
 # PR Summarizer
 
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/) [![GitHub stars](https://img.shields.io/github/stars/yksanjo/pr-summarizer?style=social)](https://github.com/yksanjo/pr-summarizer/stargazers) [![GitHub forks](https://img.shields.io/github/forks/yksanjo/pr-summarizer.svg)](https://github.com/yksanjo/pr-summarizer/network/members) [![GitHub issues](https://img.shields.io/github/issues/yksanjo/pr-summarizer.svg)](https://github.com/yksanjo/pr-summarizer/issues)
+[![Last commit](https://img.shields.io/github/last-commit/yksanjo/pr-summarizer.svg)](https://github.com/yksanjo/pr-summarizer/commits/main)
+
+
 Automatically generates TL;DR summaries of GitHub Pull Requests to speed up code review.
 
 ## Features
